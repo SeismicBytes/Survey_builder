@@ -4,8 +4,8 @@
   "description": "Survey Builder - Convert Word docs to structured JSON",
   "main": "index.js",
   "scripts": {
-    "start": "python app.py",
-    "dev": "python app.py"
+    "start": "python3 Survey_builder/app.py",
+    "dev": "python3 Survey_builder/app.py"
   },
   "keywords": ["survey", "docx", "json", "converter"],
   "author": "",
