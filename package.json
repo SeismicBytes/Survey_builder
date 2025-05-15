@@ -5,7 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "python3 Survey_builder/app.py",
-    "dev": "python3 Survey_builder/app.py"
+    "dev": "python3 Survey_builder/app.py",
+    "setup": "python3 -m pip install -r requirements.txt"
   },
   "keywords": ["survey", "docx", "json", "converter"],
   "author": "",
