@@ -1,0 +1,13 @@
+{
+  "name": "survey-builder",
+  "version": "1.0.0",
+  "description": "Survey Builder - Convert Word docs to structured JSON",
+  "main": "index.js",
+  "scripts": {
+    "start": "python app.py",
+    "dev": "python app.py"
+  },
+  "keywords": ["survey", "docx", "json", "converter"],
+  "author": "",
+  "license": "ISC"
+}
